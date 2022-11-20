@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** -https://ksaimahesh.github.io/FUTURE-READY-TALENT-PROJECT/
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -38,15 +38,15 @@ This is a web based application developed for health related based website in in
 ![One Health - Google Chrome 20-11-2022 11_14_28](https://user-images.githubusercontent.com/117822204/202888086-5510c1a1-337b-4050-b4f4-65f7569c7634.png)
 
    
-### About Us -
+### About Us -THE COMPANY ITSELF IS A VERY SUCCESSFUL COMPANY.THEY DONT KNOW IT IS NOT,BUT I WILL EXPLAIN THAT NO ONE HAS THE HEART TO DO ANYTHING AND THAT HE SHOULD SPRED AS MUCH AS POSSIBLE!THE COMPANY ITSELF IS A VERY SUCCESSFUL COMPANY.
 
 
 
-### Services -
+### Services -ALL HEALTH ISSUES,SPECILIST IN CARDIAC,AND SPINE INJURY
 
 
 
-### Contact us -
+### Contact us -351 Willow Street Franklin, MA 02038 701-573-7582 healthcare@temporary.net
 
 
 
