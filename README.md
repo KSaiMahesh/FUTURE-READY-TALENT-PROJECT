@@ -25,15 +25,13 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-![One Health - Google Chrome 20-11-2022 11_13_02](https://user-images.githubusercontent.com/117822204/202888072-d730dc4b-acdf-42fd-84ee-1071be296214.png)
+![One Health - Google Chrome 20-11-2022 11_13_02](https://user-images.githubusercontent.com/117822204/202888155-fb8661c1-67ce-46b3-aee8-ab76a1160d70.png)
 
 ![One Health - Google Chrome 20-11-2022 11_13_27](https://user-images.githubusercontent.com/117822204/202888075-5a8b66e1-bf75-4c41-a41f-356578496de6.png)
 
 ![One Health - Google Chrome 20-11-2022 11_13_44](https://user-images.githubusercontent.com/117822204/202888078-25882cdc-4584-4968-95f8-fe7da68a7ec3.png)
 
 ![One Health - Google Chrome 20-11-2022 11_14_17](https:![One Health - Google Chrome 20-11-2022 11_14_46](https://user-images.githubusercontent.com/117822204/202888082-a54d7148-2128-4798-8dee-a5262e4f88d7.png)
-
-//user-images.githubusercontent.com/117822204/202888081-6ebc0f78-c476-4e10-807d-21623fc78ea4.png)
 
 ![One Health - Google Chrome 20-11-2022 11_15_06](https://user-images.githubusercontent.com/117822204/202888083-47d78b26-160f-4332-b547-bdbaa0f6b329.png)
 
