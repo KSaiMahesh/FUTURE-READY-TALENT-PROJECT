@@ -1,5 +1,5 @@
 FUTURE READY TALENT PROJECT
-# ✨  Project name ✨
+# ✨  ONE HEALTH ✨
 
 This is a web based application developed for health related based website in india
 
