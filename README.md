@@ -26,6 +26,12 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+## Static Web Apps
+![onehealth - Microsoft Azure - Google Chrome 30-11-2022 12_29_42](https://user-images.githubusercontent.com/117822204/204729024-69464958-bcda-413b-979e-946e6ef83a2a.png)
+
+## Azure Health Bot
+![onehealth - Microsoft Azure - Google Chrome 30-11-2022 12_29_42](https://user-images.githubusercontent.com/117822204/204729139-da5853e0-54c7-4a44-b234-77106c244ac6.png)
+
 ![One Health - Google Chrome 20-11-2022 11_13_02](https://user-images.githubusercontent.com/117822204/202888155-fb8661c1-67ce-46b3-aee8-ab76a1160d70.png)
 
 ![One Health - Google Chrome 20-11-2022 11_13_27](https://user-images.githubusercontent.com/117822204/202888075-5a8b66e1-bf75-4c41-a41f-356578496de6.png)
